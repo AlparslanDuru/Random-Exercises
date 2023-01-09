@@ -1,7 +1,7 @@
 import java.io.FileInputStream;
 import java.io.IOException;
 
-class Main {
+class readFile {
   
   public static void main(String[] args) throws IOException{
     ReadTheText();
