@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class HashMap {
+public class HashMap01 {
 
     /*
            1)Maps have key - value structure
